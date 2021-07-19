@@ -11,7 +11,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Capitoli
-    projects_number: 3
+    projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
