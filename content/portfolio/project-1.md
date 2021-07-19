@@ -3,7 +3,7 @@ title: Storia del calcio sovietico e russo
 subtitle: Primo capitolo
 date: '2019-05-10'
 thumb_image: images/sfondo.jpg
-thumb_image_alt: 'Nazionale sovietica '
+thumb_image_alt: Nazionale sovietica 1986
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
