@@ -2,7 +2,7 @@
 title: Storia del calcio sovietico e russo
 subtitle: Primo capitolo
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/sfondo.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
