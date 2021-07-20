@@ -18,7 +18,7 @@ sections:
     layout_style: tiles
     title: Capitoli
     projects_number: 4
-    view_all_label: View All
+    view_all_label: Vedi tutto
     view_all_url: portfolio
   - section_id: services
     type: section_grid
