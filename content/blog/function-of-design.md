@@ -1,6 +1,5 @@
 ---
 title: Bibliografia
-subtitle: 'A interesting tale about function of design '
 excerpt: >-
   I libri, gli articoli accademici e di giornali su cui ho effettuato le mie
   ricerche.
