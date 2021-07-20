@@ -20,7 +20,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: '#'
-        style: link
+        style: icon
         icon: dribbble
         new_window: false
         no_follow: false
