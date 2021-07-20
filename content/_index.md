@@ -15,7 +15,7 @@ sections:
         type: action
   - title: Capitoli
     section_id: capitoli
-    posts_number: 4
+    posts_number: 3
     col_number: two
     actions: []
     type: section_posts
