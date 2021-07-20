@@ -14,7 +14,7 @@ sections:
         no_follow: false
         type: action
   - title: Capitoli
-    section_id: lorem-ipsum
+    section_id: capitoli
     posts_number: 4
     col_number: two
     actions: []
