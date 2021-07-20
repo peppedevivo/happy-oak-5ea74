@@ -13,13 +13,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: tiles
-    title: Capitoli
-    projects_number: 5
-    view_all_label: Vedi tutto
-    view_all_url: portfolio
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
