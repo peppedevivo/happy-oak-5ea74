@@ -1,8 +1,9 @@
 ---
 title: L'hooliganismo russo
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
+  Fenomeno recente nato dalla dissoluzione dell'URSS, cresciuto nelle palestre
+  di arti marziali miste, che spesso si trova in collisione con la politica e
+  che è stato protagonista di episodi molto violenti.
 date: '2019-03-10'
 thumb_image: images/5abdff6185600a79fb23ac81.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
