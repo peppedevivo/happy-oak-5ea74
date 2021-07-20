@@ -27,6 +27,14 @@
             {{ end }}
             <span class="view-all-button">{{ $section.view_all_label }}</span>
           </a>
+            <a href="{{ $section.view_all_url | relURL }}" class="project-link view-all-link">
+            {{ if $post.Params.thumb_image }}
+            <div class="project-thumbnail">
+              <img src="{{ $post.Params.thumb_image | relURL }}" alt="{{ $post.Params.thumb_image_alt }}" />
+            </div>
+            {{ end }}
+            <span class="view-all-button">{{ $section.view_all_label }}</span>
+          </a>
           {{ else }}
           <a href="{{ $post.URL }}" class="project-link">
             {{ if $post.Params.thumb_image }}
