@@ -3,7 +3,7 @@ title: Project Title 4
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/PA-2803339.jpg
-thumb_image_alt: A table tennis racket on a pink background
+thumb_image_alt: Lev Yashin
 image: images/4.jpg
 image_alt: A table tennis racket on a pink background
 seo:
