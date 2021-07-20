@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-03-24'
 thumb_image: images/pallone-mondiali-2018-russia-telstar.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
-image: images/11.jpg
+image: images/pallone-mondiali-2018-russia-telstar.jpg
 image_alt: A leather notebook and a pen on a wooden working table
 seo:
   title: The Elements of Great Workplace Design
