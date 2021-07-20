@@ -2,8 +2,8 @@
 title: Bibliografia
 subtitle: 'A interesting tale about function of design '
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  I libri, gli articoli accademici e di giornali su cui ho effettuato le mie
+  ricerche.
 date: '2018-01-15'
 thumb_image: images/13_thumb.jpg
 thumb_image_alt: Library shelves
