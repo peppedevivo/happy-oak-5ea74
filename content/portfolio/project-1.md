@@ -4,7 +4,7 @@ subtitle: Primo capitolo
 date: '2019-05-10'
 thumb_image: images/sfondo.jpg
 thumb_image_alt: Nazionale sovietica 1986
-image: images/1.jpg
+image: images/cool-bee.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
