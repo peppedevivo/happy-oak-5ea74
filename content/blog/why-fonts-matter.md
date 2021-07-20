@@ -7,7 +7,7 @@ excerpt: >-
 date: '2019-03-27'
 thumb_image: images/magnificent-bee.jpg
 thumb_image_alt: Lev Yashin con la nazionale sovietica
-image: images/12.jpg
+image: images/marvelous-sloth.jpg
 image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
