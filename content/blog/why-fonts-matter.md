@@ -1,9 +1,6 @@
 ---
 title: Storia del calcio sovietico e russo
-excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+excerpt: 'Dalle origini '
 date: '2019-03-27'
 thumb_image: images/magnificent-bee.jpg
 thumb_image_alt: Lev Yashin con la nazionale sovietica
