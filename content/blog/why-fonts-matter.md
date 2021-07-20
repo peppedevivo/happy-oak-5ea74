@@ -1,6 +1,6 @@
 ---
 title: Storia del calcio sovietico e russo
-excerpt: 'Dalle origini '
+excerpt: 'Dalle nascita dei primi '
 date: '2019-03-27'
 thumb_image: images/magnificent-bee.jpg
 thumb_image_alt: Lev Yashin con la nazionale sovietica
