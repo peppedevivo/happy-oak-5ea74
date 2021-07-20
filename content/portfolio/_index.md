@@ -1,6 +1,6 @@
 ---
 title: Tesi
-subtitle: I singoli capitoli della tesi
+subtitle: I singoli capitoli e la bibliografia
 layout_style: mosaic
 seo:
   title: Portfolio
