@@ -24,7 +24,7 @@ sections:
     type: section_testimonials
     title: Testimonials
     subtitle: An optional subtitle of the section
-    col_number: two
+    col_number: three
     testimonials:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
