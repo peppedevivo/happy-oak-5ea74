@@ -17,14 +17,7 @@ sections:
     section_id: lorem-ipsum
     posts_number: 4
     col_number: two
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: button
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     type: section_posts
 seo:
   title: Stackbit Exto Theme
