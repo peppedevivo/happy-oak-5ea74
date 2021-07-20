@@ -20,6 +20,13 @@ sections:
     projects_number: 5
     view_all_label: Vedi tutto
     view_all_url: portfolio
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: section_posts
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
