@@ -1,8 +1,8 @@
 ---
 title: I mondiali di calcio di Russia 2018
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Nel 2018 per la prima volta nella sua storia la Russia organizza i Mondiali di
+  Calcio in un tentativo, assieme alle Olimpiadi invernali di Sochi,
 date: '2019-03-24'
 thumb_image: images/pallone-mondiali-2018-russia-telstar.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
