@@ -13,7 +13,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - title: lorem-ipsum
+  - title: Capitoli
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     posts_number: 4
