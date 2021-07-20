@@ -1,5 +1,5 @@
 ---
-title: 'I mondiali di calcio di '
+title: I mondiali di calcio di Russia 2018
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
