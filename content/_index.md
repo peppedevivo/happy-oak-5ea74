@@ -15,7 +15,6 @@ sections:
         type: action
   - title: Capitoli
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     posts_number: 4
     col_number: two
     actions: []
