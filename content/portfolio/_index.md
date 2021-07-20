@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Tesi
 subtitle: I singoli capitoli della tesi
 layout_style: mosaic
 seo:
