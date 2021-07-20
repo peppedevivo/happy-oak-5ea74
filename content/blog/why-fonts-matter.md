@@ -2,7 +2,7 @@
 title: Storia del calcio sovietico e russo
 excerpt: >-
   Dalla nascita dei primi club grazie all'iniziativa di marinai inglesi fino al
-  calcio degli oligarchi, passando per quello 
+  calcio degli oligarchi, passando per quello controllato 
 date: '2019-03-27'
 thumb_image: images/magnificent-bee.jpg
 thumb_image_alt: Lev Yashin con la nazionale sovietica
