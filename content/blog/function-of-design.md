@@ -42,13 +42,11 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Introduzione
+**Introduzione**
 
 \-       R.Arndold, *Sport and official nationalism in Modern Russia*, Problems of Post-Communism vol.65, Routledge, 2018
 
-
-
-Storia del calcio sovietico e russo
+**Storia del calcio sovietico e russo**
 
 \-       M.A. Curletto, *I Piedi dei Soviet*, il Melangolo, Genova, 2010;
 
@@ -120,7 +118,7 @@ Storia del calcio sovietico e russo
 
 \-       A. Bortolotti, *Sasha che succede*, Guerin Sportivo, 30 novembre 1988;
 
-\-       G.P. Ormezzano*, Il compagno del silenzio*, La Stampa, 16 ottobre 1988;
+\-       G.P. Ormezzano\*, Il compagno del silenzio\*, La Stampa, 16 ottobre 1988;
 
 \-       E. Pergianni, *L’Urss torna a Berlino*, La Stampa, 30 marzo 1988;
 
@@ -144,7 +142,7 @@ Storia del calcio sovietico e russo
 
  
 
-I Mondiali di calcio di Russia 2018 
+**I Mondiali di calcio di Russia 2018 **
 
 \-       R.Brizzi, N.Sbetti, *Storia della Coppa del Mondo di calcio (1930-2018)*, Le Monnier, Firenze, 2018;
 
@@ -212,7 +210,7 @@ I Mondiali di calcio di Russia 2018 
 
  
 
-L’hooliganismo russo
+**L’hooliganismo russo**
 
 \-       I.Pajaro, *Breve storia degli hooligan russi*, Ultimouomo.com, 17 luglio 2018;
 
