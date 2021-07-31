@@ -1,11 +1,11 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
+title: Giuseppe De Vivo
+subtitle: Studente di Comunicazione, ICT e Media
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
-  title: About Us
-  description: This is the about us page
+  title: Giuseppe De Vivo
+  description: Studente di Comunicazione, ICT e Media
   extra:
     - name: 'og:type'
       value: website
@@ -32,10 +32,18 @@ seo:
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Prima di frequentare il corso di laurea magistrale in **Comunicazione, ICT e Media** all'Università di Torino, mi sono laureato in **Scienze Politiche e Relazioni Internazionali** all'Università "L'Orientale" di Napoli, dopo aver frequentato per 3 anni la facoltà di *Informatica* all'Università "Parthenope" di anni che, però, non ho concluso.
+
+Grazie alla facoltà che sto frequentando e ai tre anni a Informatica ho sviluppato una buona conoscenza dei linguaggi di **programmazione web**, come **HTML**, **CSS**, **PHP**, **JAVASCRIPT/JQUERY**, **AJAX**.
+
+Avendo partecipato alla prima edizione dell'**L'Orientale iOS Foundation Program** ho avuto modo di fare esperienza con lo sviluppo di app per iOS a 360 gradi: dall'ideazione, al design, fino allo sviluppo vero e proprio con il linguaggio **Swift** e la suite **XCode**.
+
+Ho avuto da sempre la passione per la tecnologia e l'informatica in generale, cosa che mi ha portato ad avere un'ottima conoscenza dei sistemi operativi più comuni, sia desktop (**Windows**, **Linux** e **MacOS**) che mobile (**iOS** e **Android**), e ad essere capace di **manutenzione hardware e software** di medio livello.
+
+Inoltre, sono appassionato di **storia**, **politica**, **sport** e **libri**. Mi ritengo una persona molto curiosa e amo molto leggere e informarmi sulle cose più diverse.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla.
 
 *Thank You for reading!*
