@@ -1,6 +1,6 @@
 ---
 title: Benvenuti nel mio sito
-subtitle:
+subtitle: Mi chiamo Giuseppe e sono uno studente di **Comunicazione, ICT e Media** all'Università di Torino. 
 image:
 image_alt:
 seo:
@@ -32,7 +32,7 @@ seo:
 layout: page
 ---
 
-Mi chiamo Giuseppe e sono uno studente di **Comunicazione, ICT e Media** all'Università di Torino. Sono laureato in **Scienze Politiche e Relazioni Internazionali** all'Università "L'Orientale" di Napoli e precedentemente ho frequentato per 3 anni la facoltà di *Informatica* all'Università "Parthenope" di Napoli che, però, non ho concluso.
+Sono laureato in **Scienze Politiche e Relazioni Internazionali** all'Università "L'Orientale" di Napoli e precedentemente ho frequentato per 3 anni la facoltà di *Informatica* all'Università "Parthenope" di Napoli che, però, non ho concluso.
 
 Grazie alla facoltà che sto frequentando e ai tre anni a Informatica ho sviluppato una buona conoscenza dei linguaggi di **programmazione web**, come **HTML**, **CSS**, **PHP**, **JAVASCRIPT/JQUERY**, **AJAX**.
 
