@@ -1,11 +1,11 @@
 ---
-title: Blog
-subtitle: 'News, tips and highlights'
+title: Ruolo del Calcio in URSS e Russia
+subtitle:
 hide_title: true
-col_number: two
+col_number: three
 seo:
-  title: Blog
-  description: This is the blog page
+  title: Ruolo del Calcio in URSS e Russia
+  description: Storia del calcio sovietico e russo
   extra:
     - name: 'og:type'
       value: website
