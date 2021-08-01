@@ -1,49 +1,53 @@
 ---
-title: Home
-hide_title: true
-sections:
-  - section_id: hero
-    type: section_hero
-    title: Benvenuti nel mio portfolio.
-    content: "##### *Dato che non ho mai avuto modo di stampare la mia tesi (mi sono laureato in pieno primo lockdown), ho deciso di pubblicarla online, in questo sito che voglio utilizzare anche come mio portfolio.*\n\nMi sono laureato in\_*Scienze Politiche e Relazioni internazionali*\_all’Università L’Orientale di Napoli, con una tesi di laurea in\_*Storia dell’Europa Orientale*\_sul\_**Ruolo del Calcio in URSS e Russia**\_*(Storia, politica, economia e società)*.\n\nLa storia e lo sport sono state mie due grandi passioni sin da quando ero piccolo e ogni volta cerco di inserirle in qualsiasi discorso mi trovo ad affrontare. Grazie alla disponibilità del Prof. [Fabio Bettanin](https://docenti.unior.it/index2.php?user_id=fbettanin\\&content_id_start=1)\_ho avuto modo di esplorare i rapporti che legavano il calcio con la politica, l’economia e la società dell’URSS prima e della Russia poi, Paesi che mi hanno sempre affascinato e che ho amato studiare durante il mio percorso di studi.\n\nDi seguito riporto il capitolo introduttivo della tesi. Se poi siete interessati, troverete i link agli altri capitoli in fondo alla pagina.\n\n##\n\n## Storia del Calcio in URSS e Russia\n\n### Introduzione\n\nPolitica e sport sono intrecciati sin dai tempi antichi, grazie alla capacità dello sport di entrare nell’immaginario delle persone: basti pensare all’importanza dei giochi gladiatori per i romani, convocati più o meno regolarmente dagli imperatori per aggraziarsi il favore del popolo. Stessa cosa per il regime nazista e il regime fascista. Mussolini fece dell’insegnamento dell’educazione fisica nelle scuole il punto centrale della sua politica giovanile (assieme alla nascita dell’Organizzazione Nazionale Balilla), oltre a portare i Mondiali di calcio del 1934 in Italia (che li vinse). Le Olimpiadi di Berlino del 1936 furono l’occasione per Hitler di mostrare al mondo il livello raggiunto dalla Germania. Non faceva eccezione, rispetto agli altri due regimi del Novecento, l’Unione Sovietica. Lo sport in URSS veniva usato per promuovere la costruzione della nazione, l’integrazione, la difesa, la salute e l’igiene, le politiche sociali e il raggiungimento del riconoscimento e del prestigio internazionale . Dato che il gioco ha un ruolo fondamentale nell’educazione e nelle abitudini (soprattutto dei bambini), lo sport può avere un’ottima efficacia nel trasmettere i valori di un regime . L’Unione Sovietica lo usava per dimostrare la superiorità della società sovietica rispetto a quella occidentale. Rispetto al modello “atlantico”, lo sport sovietico differiva per la sua natura centralizzata: era il regime ad organizzare lo sport e non i club . Questo lo si poteva vedere anche nel calcio, con tutte le squadre di club che erano affiliate a un ente territoriale o a un’azienda (ad esempio il CSKA Mosca era affiliato all’Armata Rossa). Fenomeno identitario, sociale ed economico, il calcio, con la sua capacità di arrivare a tantissime persone non poteva che essere al centro della vita pubblica sovietica ed essere influenzato dalla politica interna ed internazionale (emblematici in questo senso la spedizione olimpica di Helsinki 1952 e le vicende dell’Europeo del 1960 o delle qualificazioni al Mondiale 1974). Con la dissoluzione dell’URSS nel 1991, la sua “eredità” venne raccolta dalla Russia. Dal 2000 la scena politica è dominata da Vladimir Putin, che ha usato lo sport, e il calcio in particolare, per permuovere l’identità nazionale e il patriottismo, per rafforzare l’immagine internazionale della Russia e per ingraziarsi il sostegno delle masse e degli oligarchi, grazie anche all’organizzazione di grandi eventi sportivi (le Olimpiadi invernali di Sočhi nel 2014 e i Mondiali di calcio nel 2018 su tutti). In tutto questo si sono insediati gli hooligans russi, famosi per il carattere violento e razzista delle loro azioni, utilizzati dai partiti di estrema destra come serbatoio di voti e forza da mobilitare in determinate occasioni.\n"
-    actions:
-      - url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
-  - title: Capitoli
-    section_id: capitoli
-    posts_number: 3
-    col_number: three
-    actions: []
-    type: section_posts
+title: Benvenuti nel mio sito
+subtitle:
+image:
+image_alt:
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  title: Giuseppe De Vivo
+  description: Studente di Comunicazione, ICT e Media
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: About Us
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: This is the about us page
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: images/about.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: About Us
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: This is the about us page
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: images/about.jpg
       relativeUrl: true
-layout: advanced
+layout: page
 ---
+
+Mi chiamo Giuseppe e sono uno studente di **Comunicazione, ICT e Media** all'Università di Torino. Sono laureato in **Scienze Politiche e Relazioni Internazionali** all'Università "L'Orientale" di Napoli e precedentemente ho frequentato per 3 anni la facoltà di *Informatica* all'Università "Parthenope" di Napoli che, però, non ho concluso.
+
+Grazie alla facoltà che sto frequentando e ai tre anni a Informatica ho sviluppato una buona conoscenza dei linguaggi di **programmazione web**, come **HTML**, **CSS**, **PHP**, **JAVASCRIPT/JQUERY**, **AJAX**.
+
+Avendo partecipato alla prima edizione dell'**L'Orientale iOS Foundation Program** ho avuto modo di fare esperienza con lo sviluppo di app per iOS a 360 gradi: dall'ideazione, al design, fino allo sviluppo vero e proprio con il linguaggio **Swift** e la suite **XCode**.
+
+Ho avuto da sempre la passione per la tecnologia e l'informatica in generale, cosa che mi ha portato ad avere un'ottima conoscenza dei sistemi operativi più comuni, sia desktop (**Windows**, **Linux** e **MacOS**) che mobile (**iOS** e **Android**), e ad essere capace di **manutenzione hardware e software** di medio livello.
+
+Inoltre, sono appassionato di **storia**, **politica**, **sport** e **libri**. Mi ritengo una persona molto curiosa e amo molto leggere e informarmi sulle cose più diverse.
+
+
+# Perchè ho deciso di creare questo sito?
+Mi sono laureato ad aprile 2020, in pieno primo lockdown, e per questo motivo non ho avuto modo di stampare la mia tesi e ho deciso quindi di pubblicarla online.
+
+Come già detto in precedenza, mi sono laureato in _Scienze Politiche e Relazioni internazionali_  con una tesi di laurea in _Storia dell’Europa Orientale_ sul **Ruolo del Calcio in URSS e Russia** _(Storia, politica, economia e società)_.
+
+La storia e lo sport sono state mie due grandi passioni sin da quando ero piccolo e ogni volta cerco di inserirle in qualsiasi discorso mi trovo ad affrontare. Grazie alla disponibilità del Prof.  [Fabio Bettanin](https://docenti.unior.it/index2.php?user_id=fbettanin&content_id_start=1) ho avuto modo di esplorare i rapporti che legavano il calcio con la politica, l’economia e la società dell’URSS prima e della Russia poi, Paesi che mi hanno sempre affascinato e che ho amato studiare durante il mio percorso di studi.
+
+La tesi la troverete [qui](https://happy-oak-5ea74.netlify.app/blog/) oppure andando nella sezione _Tesi_ nel menù in alto a destra.
