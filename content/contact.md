@@ -10,7 +10,6 @@ sections:
       il mio profilo
       [Linkedin](https://www.linkedin.com/in/giuseppe-de-vivo-2a279a130/) e
       [Twitter](https://twitter.com/peppedevivo)
-    form_action: ' xcdsc'
 seo:
   title: Contact
   description: This is the contact page
