@@ -3,11 +3,11 @@
  */
 html {
   font-family: _font(primary);
-  font-size: 112.5%;
+  font-size: 130%;
   height: 100%;
   min-height: 100%;
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 720px) {
     font-size: 100%;
   }
 }
@@ -184,15 +184,15 @@ blockquote {
     .accent-green & {
       color: _palette(accent-green);
     }
-  
+
     .accent-blue & {
       color: _palette(accent-blue);
     }
-  
+
     .accent-violet & {
       color: _palette(accent-violet);
     }
-  
+
     .accent-yellow & {
       color: _palette(accent-yellow);
     }
