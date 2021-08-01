@@ -2,7 +2,7 @@
 title: Ruolo del Calcio in URSS e Russia
 subtitle:
 hide_title: true
-col_number: three
+col_number: two
 seo:
   title: Ruolo del Calcio in URSS e Russia
   description: Storia del calcio sovietico e russo

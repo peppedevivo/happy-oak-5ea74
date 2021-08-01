@@ -2,7 +2,7 @@
 title: Introduzione
 excerpt: >-
   Grazie alla sua capacità di entrare nell'immaginario delle persone, la politica, sin dai tempi dei Romani, ha avuto sempre una speciale attenzione per lo sport. L'Unione Sovietica e la Russia non sono state da meno.
-date: '2019-03-24'
+date: '2019-03-30'
 thumb_image: images/cool-bee.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: images/cool-bee.jpg
