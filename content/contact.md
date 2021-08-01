@@ -29,3 +29,4 @@ seo:
       value: This is the contact page
 layout: advanced
 ---
+Ciao come va la vita
