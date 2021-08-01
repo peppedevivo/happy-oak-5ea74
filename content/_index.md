@@ -1,6 +1,6 @@
 ---
 title: Benvenuti nel mio sito
-subtitle: Mi chiamo Giuseppe e sono uno studente di Comunicazione, ICT e Media all'Università di Torino. 
+subtitle: Mi chiamo Giuseppe e sono uno studente di Comunicazione, ICT e Media all'Università di Torino.
 image:
 image_alt:
 seo:
@@ -36,7 +36,7 @@ Sono laureato in **Scienze Politiche e Relazioni Internazionali** all'Universit�
 
 Grazie alla facoltà che sto frequentando e ai tre anni a Informatica ho sviluppato una buona conoscenza dei linguaggi di **programmazione web**, come **HTML**, **CSS**, **PHP**, **JAVASCRIPT/JQUERY**, **AJAX**.
 
-Avendo partecipato alla prima edizione dell'**L'Orientale iOS Foundation Program** ho avuto modo di fare esperienza con lo sviluppo di app per iOS a 360 gradi: dall'ideazione, al design, fino allo sviluppo vero e proprio con il linguaggio **Swift** e la suite **XCode**.
+Avendo partecipato alla prima edizione de **L'Orientale iOS Foundation Program** ho avuto modo di fare esperienza con lo sviluppo di app per iOS a 360 gradi: dall'ideazione, al design, fino allo sviluppo vero e proprio con il linguaggio **Swift** e la suite **XCode**.
 
 Ho avuto da sempre la passione per la tecnologia e l'informatica in generale, cosa che mi ha portato ad avere un'ottima conoscenza dei sistemi operativi più comuni, sia desktop (**Windows**, **Linux** e **MacOS**) che mobile (**iOS** e **Android**), e ad essere capace di **manutenzione hardware e software** di medio livello.
 
