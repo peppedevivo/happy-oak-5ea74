@@ -5,9 +5,12 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Se hai interesse a contattami puoi farlo mandandomi una mail a [peppedevivo@gmail.com](mailto:peppedevivo@gmail.com).
-      Qui, invece, trovi il mio profilo [Linkedin](https://www.linkedin.com/in/giuseppe-de-vivo-2a279a130/) e [Twitter](https://twitter.com/peppedevivo)
-    
+      Se hai interesse a contattami puoi farlo mandandomi una mail a
+      [peppedevivo@gmail.com](mailto:peppedevivo@gmail.com). Qui, invece, trovi
+      il mio profilo
+      [Linkedin](https://www.linkedin.com/in/giuseppe-de-vivo-2a279a130/) e
+      [Twitter](https://twitter.com/peppedevivo)
+    form_action: ' xcdsc'
 seo:
   title: Contact
   description: This is the contact page
