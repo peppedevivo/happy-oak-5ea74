@@ -1,7 +1,7 @@
 {
     "title": "Stackbit Exto Theme",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "yellow",
     "header": {
         "title": "GIUSEPPE DE VIVO (beta)",
         "has_nav": true,
@@ -12,18 +12,14 @@
                 "style": "link"
             },
             {
-                "label": "Capitoli",
+                "label": "Tesi",
                 "url": "/blog/",
                 "style": "link",
                 "new_window": false
             },
+
             {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
+                "label": "Contattami",
                 "url": "/contact/",
                 "style": "link"
             }
@@ -34,28 +30,16 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/peppedevivo",
                 "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
+
+
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/giuseppe-de-vivo-2a279a130",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
