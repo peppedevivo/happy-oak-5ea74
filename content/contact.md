@@ -1,32 +1,36 @@
 ---
 title: Contatti
-hide_title: false
-sections:
-  - section_id: contact-form
-    type: section_form
-    content: >-
-      Se vuoi contattarmi puoi farlo mandandomi una mail a [peppedevivo@gmail.com](mailto:peppedevivo@gmail.com).
-      Qui, invece, trovi i miei profili [Linkedin](https://www.linkedin.com/in/giuseppe-de-vivo-2a279a130/) e [Twitter](https://twitter.com/peppedevivo)
-
+subtitle:  
+image:
+image_alt:
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contatti
+  description:
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: This is the about us page
       keyName: property
+    - name: 'og:image'
+      value: images/about.jpg
+      keyName: property
+      relativeUrl: true
     - name: 'twitter:card'
-      value: summary
+      value: summary_large_image
     - name: 'twitter:title'
-      value: Contact
+      value: About Us
     - name: 'twitter:description'
-      value: This is the contact page
-layout: advanced
+      value: This is the about us page
+    - name: 'twitter:image'
+      value: images/about.jpg
+      relativeUrl: true
+layout: page
 ---
-Ciao come va la vita
+### Se vuoi contattarmi puoi farlo mandandomi una mail a [peppedevivo@gmail.com](mailto:peppedevivo@gmail.com).
+
+#### Qui, invece, trovi i miei profili [Linkedin](https://www.linkedin.com/in/giuseppe-de-vivo-2a279a130/) e [Twitter](https://twitter.com/peppedevivo)

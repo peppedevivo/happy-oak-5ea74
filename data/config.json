@@ -13,14 +13,14 @@
             },
             {
                 "label": "Tesi",
-                "url": "/blog/",
+                "url": "/tesi/",
                 "style": "link",
                 "new_window": false
             },
 
             {
                 "label": "Contattami",
-                "url": "/contact/",
+                "url": "/contatti/",
                 "style": "link"
             }
         ]
