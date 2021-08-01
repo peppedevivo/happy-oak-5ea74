@@ -31,6 +31,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-#### Se vuoi contattarmi, puoi farlo mandandomi una mail a [peppedevivo@gmail.com](mailto:peppedevivo@gmail.com).
+#### Se vuoi contattarmi, puoi farlo mandandomi una mail a [peppedevivo@gmail.com](mailto:peppedevivo@gmail.com)
 
 ##### Qui, invece, trovi i miei profili [Linkedin](https://www.linkedin.com/in/giuseppe-de-vivo-2a279a130/) e [Twitter](https://twitter.com/peppedevivo)
