@@ -1,6 +1,6 @@
 ---
 title: Benvenuti nel mio sito
-subtitle: Mi chiamo Giuseppe e sono uno studente di **Comunicazione, ICT e Media** all'Università di Torino. 
+subtitle: Mi chiamo Giuseppe e sono uno studente di Comunicazione, ICT e Media all'Università di Torino. 
 image:
 image_alt:
 seo:
