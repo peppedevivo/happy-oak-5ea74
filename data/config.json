@@ -20,7 +20,7 @@
 
             {
                 "label": "Contattami",
-                "url": "/contatti/",
+                "url": "/contact/",
                 "style": "link"
             }
         ]
