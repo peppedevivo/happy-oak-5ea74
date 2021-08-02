@@ -11,10 +11,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Tesi
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Qui trovi la mia tesi
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
@@ -23,9 +23,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Tesi
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Qui trovi la mia tesi
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
