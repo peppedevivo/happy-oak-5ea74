@@ -17,7 +17,7 @@ seo:
       value: Questo è il mio sito
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/fotoSito.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: Questo è il mio sito
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: images/fotoSito.jpg
       relativeUrl: true
 layout: page
 ---

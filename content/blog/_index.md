@@ -17,7 +17,7 @@ seo:
       value: Qui trovi la mia tesi
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: images/fotoTesi.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: Qui trovi la mia tesi
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: images/fotoTesi.jpg
       relativeUrl: true
 layout: blog
 ---
