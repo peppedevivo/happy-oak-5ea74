@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Tesi
+      value: Ruolo del calcio in URSS e Russia
       keyName: property
     - name: 'og:description'
       value: Qui trovi la mia tesi
@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Tesi
     - name: 'twitter:description'
-      value: Qui trovi la mia tesi
+      value: Ruolo del calcio in URSS e Russia
     - name: 'twitter:image'
       value: images/fotoTesi.jpg
       relativeUrl: true
