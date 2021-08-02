@@ -11,10 +11,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Contattami
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Qui trovi come contattarmi
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -23,9 +23,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Contattami
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Qui trovi come contattarmi
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
