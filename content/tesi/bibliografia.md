@@ -9,7 +9,7 @@ thumb_image_alt: Library shelves
 image: images/13.jpg
 image_alt: Library shelves
 seo:
-  title: The function of design is letting design function
+  title: Bibliografia
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore

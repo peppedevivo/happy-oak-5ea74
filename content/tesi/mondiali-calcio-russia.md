@@ -10,7 +10,7 @@ thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: images/pallone-mondiali-2018-russia-telstar.jpg
 image_alt: A leather notebook and a pen on a wooden working table
 seo:
-  title: The Elements of Great Workplace Design
+  title: I mondiali di calcio in Russia
   description: >-
     Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
     accumsan sapien blandit
