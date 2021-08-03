@@ -161,7 +161,7 @@ models:
     urlPath: /blog
     label: Blog
     layout: blog
-    file: blog/_index.md
+    file: tesi/_index.md
     hideContent: true
     singleInstance: true
     fields:
