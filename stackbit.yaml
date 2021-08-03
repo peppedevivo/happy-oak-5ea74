@@ -158,7 +158,7 @@ models:
           - stackbit_page_meta
   blog:
     type: page
-    urlPath: /blog
+    urlPath: /tesi
     label: Blog
     layout: blog
     file: tesi/_index.md
@@ -252,10 +252,10 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/blog/{slug}'
+    urlPath: '/tesi/{slug}'
     label: Post
     layout: post
-    folder: blog
+    folder: tesi
     fields:
       - type: string
         name: title
