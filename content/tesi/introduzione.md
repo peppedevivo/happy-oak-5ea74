@@ -8,7 +8,7 @@ thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: images/cool-bee.jpg
 image_alt: A leather notebook and a pen on a wooden working table
 seo:
-  title: The Elements of Great Workplace Design
+  title: Introduzione
   description: >-
     Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
     accumsan sapien blandit

@@ -10,7 +10,7 @@ thumb_image_alt: Lev Yashin con la nazionale sovietica
 image: images/marvelous-sloth.jpg
 image_alt: A pile of books on the table
 seo:
-  title: Why Fonts Matter
+  title: Storia del calcio sovietico e russo
   description: >-
     Amet nibh adipiscing adipiscing ante vis placerat interdum massa massa
     primis

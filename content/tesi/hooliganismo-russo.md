@@ -10,7 +10,7 @@ thumb_image_alt: Hello this way printed on a red metal gate
 image: images/5abdff6185600a79fb23ac81.jpg
 image_alt: Hello this way printed on a red metal gate
 seo:
-  title: Understanding Street Photography
+  title: L'hooliganismo russo
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt
