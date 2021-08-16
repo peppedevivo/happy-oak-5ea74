@@ -50,4 +50,4 @@ Come già detto in precedenza, mi sono laureato in _Scienze Politiche e Relazion
 
 La storia e lo sport sono state mie due grandi passioni sin da quando ero piccolo e ogni volta cerco di inserirle in qualsiasi discorso mi trovo ad affrontare. Grazie alla disponibilità del Prof.  [Fabio Bettanin](https://docenti.unior.it/index2.php?user_id=fbettanin&content_id_start=1) ho avuto modo di esplorare i rapporti che legavano il calcio con la politica, l’economia e la società dell’URSS prima e della Russia poi, Paesi che mi hanno sempre affascinato e che ho amato studiare durante il mio percorso di studi.
 
-La tesi la troverete [qui](https://happy-oak-5ea74.netlify.app/blog/) oppure andando nella sezione _Tesi_ nel menù in alto a destra.
+La tesi la troverete [qui](https://www.giuseppedevivo.it/tesi/) oppure andando nella sezione _Tesi_ nel menù in alto a destra.
