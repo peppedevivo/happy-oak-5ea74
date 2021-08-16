@@ -63,6 +63,7 @@ Intanto il congresso delle organizzazioni sportive operaie tenutosi a Mosca nel 
 
 In seguito, venne avvertita la necessità di confrontarsi con le squadre professionistiche dei paesi capitalisti. Era il 1924 e restava il problema di trovare un avversario adatto: visto l’isolamento internazionale dell’Unione Sovietica, entrare in contatto con la federazione calcistica di un Paese dell’Europa Occidentale era improbabile. Una soluzione intermedia era misurarsi sul campo di gioco con la neonata Repubblica Turca di Mustafa Ataruk, in buoni rapporti con il Paese proletario, e fu così che il 16 novembre 1924 si giocò la prima partita ufficiale dell’Unione Sovietica. Il risultato finale fu un secco 3-0 che venne accolto con trionfalismo: venne dimostrata la supremazia del calcio proletario su quello borghese. Il 15 maggio 1925 venne giocata la rivincita ad Ankara. La vittoria sovietica per 2-1 fu celebrata dalla stampa con un’enfasi mai riservata prima a gesta sportive: i calciatori furono salutati come eroi nazionali e venne considerata “definitivamente tramontata l’epoca in cui, grazie allo zarismo, tomba di ogni manifestazione di cultura, il Paese sovietico veniva considerato una nullità nel campo dello sport.  Però queste due partite non contribuirono all’acuirsi dell’isolamento del calcio sovietico: il rifiuto di abbandonare l’Internazionale Sportiva Rossa, non permise l’ingresso della federazione nella FIFA.
 
+<br/><br/>
 
 
 ## Fenomeno di costume
@@ -83,6 +84,7 @@ Nel 1936 venne disputato il primo campionato sovietico. Le squadre furono divise
 
 Incontrarono resistenze, invece, le innovazioni dal punto di vista tattico. In quel periodo in Europa si stava diffondendo il sistema a W, una specie di 3-4-3, mentre in URSS si continuava a usare il sistema a piramide, con due difensori, tre centrocampisti e cinque attaccanti. Il rifiuto dell’uso del modulo a W era di carattere ideologico: la nuova tattica (inventata dai britannici) era considerata come indegnamente difensiva, mentre la mentalità del gioco sovietico era per natura portata all’attacco. Solo alcune travolgenti vittorie della selezione dei Paesi Baschi nella tournèe sovietica convinsero, dopo ampie discussioni, il consiglio tecnico dello Spartak Mosca a passare al modulo a W. La netta vittoria per 6-2 dei moscoviti (con alcuni favori arbitrali) convinse finalmente i sovietici dell’efficacia di questo modulo, che da lì in poi venne adottato gradualmente da tutte le squadre.
 
+<br/><br/>
 
 
 ## Durante la guerra
@@ -99,6 +101,7 @@ Intanto in Ucraina, dopo che l’Armata Rossa riconquistò Kiev si diffuse, graz
 
 Frattanto, dopo la resa dei nazisti nel febbraio 1943 Stalingrado era ormai ridotta a un cumulo di macerie, ma già a metà del mese il portiere Ermasov fu nominato presidente della società sportiva Dinamo e ricevette l’incarico di riorganizzare la vita sportiva della città. Per festeggiare il Primo Maggio, si decise di giocare una partita per simboleggiare la rinascita della città con la partecipazione dei più noti giocatori di Stalingrado e a cui fu invitato lo Spartak Mosca. Alla partita assistettero diecimila spettatori e il match fu preceduto da un cerimoniale molto spettacolare: prima vennero pubblicamente appuntate al petto onorificenze ai calciatori locali che avevano attivamente partecipato alla difesa della città; poi, sullo stadio apparve un caccia in picchiata che lanciò il pallone con cui si sarebbe dovuto giocare (ma che andò perso nelle tribune). Sul piano tecnico non fu una grande partita (vinta per 1-0 dalla selezione di Stalingrado), ma gli echi varcarono i confini dell’Unione Sovietica.
 
+<br/><br/>
 
 
 ## Dopoguerra
@@ -113,6 +116,7 @@ La selezione olimpica sovietica di calcio venne costruita a partire dall’ossat
 
 La spedizione olimpica sovietica alloggiava in un villaggio olimpico a parte, dedicato ai soli paesi socialisti. Vi era una grandissima presenza di agenti segreti (quasi la metà della spedizione) e l’atmosfera “oscillava tra la tensione estrema e l’avvilimento”. Nel turno preliminare l’URSS affrontò la Bulgaria, con i sovietici che apparvero stanchi e depressi. Nonostante questo, l’URSS riuscì a superare il turno vincendo per 2-1 nei tempi supplementari, dopo essere andata in svantaggio. Agli ottavi di finale l’Unione Sovietica avrebbe affrontato la Jugoslavia. In quel momento lo stato delle relazioni tra i due paesi era pessimo: solo un paio di anni prima, nel 1949, l’URSS aveva rotto il trattato di amicizia e reciproca collaborazione con il Paese balcanico e per questo motivo ci fu una grandissima pressione da parte dei dirigenti e delle autorità sovietiche. Secondo quando scritto dal portiere Ivanov nelle sue memorie: “ancora pochi minuti prima (della partita ndr), alcuni personaggi politici continuavano a insistere sulla necessità di vincere ad ogni costo”. Inoltre, a non aiutare concorreva il fatto che il pubblico di casa avrebbe tifato per la nazionale jugoslava: il ricordo dei trascorsi bellici tra URSS e Finlandia era ancora troppo vivido. La partita fu piena di emozioni: dopo essere stata in svantaggio per 5-1 a inizio secondo tempo, l’URSS riuscì nell’incredibile impresa di rimontare e pareggiare all’89’ portando la partita ai supplementari, dove il punteggio non sarebbe cambiato. Era necessaria una ripetizione del match (allora non erano ancora previsti i calci di rigore). Le pressioni sulla selezione di calcio raggiunsero vette elevatissime, addirittura, secondo le testimonianze di Novosil’cev (inviato della “Pravda”, organo ufficiale del Partito Comunista sovietico) e Romanov (Presidente del Comitato Pansovietico per le questioni della Cultura Fisica e dello Sport) arrivò un telegramma firmato da Stalin nel quale egli spiegava la portata della responsabilità che incombeva sui calciatori e che la partita assumeva il significato di atto politico dello Stato. Però, il 22 luglio la Jugoslavia vinse nettamente l’incontro con il punteggio di 3-1, dopo che l’URSS era riuscita anche ad andare in vantaggio a inizio partita. Dopo la partita i giocatori furono oggetto di una campagna molto ostile da parte della stampa e addirittura non fu mai mostrata una sola foto delle tre partite disputate dalla nazionale sovietica in terra svedese (e di tali materiali non è stata trovata traccia neppure negli anni della perestrojka in poi). Il CDSA venne visto come radice di tutti i mali e quindi da estirpare: con l’Ordinanza N° 793 venne decretato lo scioglimento della squadra per il suo comportamento “non soddisfacente ai Giochi Olimpici” e per il “serio danno al prestigio dello sport sovietico e dello Stato sovietico”. Provvedimenti successivi furono dedicati a calciatori specifici (per esempio a Beskov, “reo” di aver colpito la traversa in posizione favorevole nei supplementari della prima partita) che portarono alla loro squalifica per un anno e alla privazione del titolo di maestri dello sport dell’URSS. L’allenatore Arkadev, invece, venne sottoposto a una campagna diffamatoria che, di solito, avrebbe portato a un processo con certezza di condanna. Per sua fortuna mancava poco alla morte di Stalin, avvenuta il 5 marzo 1953. La scomparsa del dittatore fece cadere le accuse e avrebbe portato anche alla rifondazione della CDSA, che avvenne sotto il nome di CSKA.
 
+<br/><br/>
 
 
 ## Prime affermazioni internazionali
@@ -125,6 +129,7 @@ Non si dovette aspettare ancora molto per avere la prima affermazione calcistica
 
 Questa vittoria non restò un caso isolato. Nel 1960 si tenne la prima edizione del Campionato Europeo di calcio, organizzato dalla UEFA. Al torneo si iscrissero in tutto 17 squadre, quindi, a parte un turno preliminare, le squadre partecipanti si affrontarono in partite di eliminazione diretta, con andata e ritorno. Agli ottavi di finale l’URSS vinse entrambe le partite contro la Bulgaria e ai quarti di finale avrebbe dovuto affrontare la Spagna. La squadra spagnola era una delle formazioni più forti del torneo: l’ossatura della squadra era composta dai giocatori del Real Madrid, che all’epoca aveva già vinto quattro Coppe dei Campioni. Ma i due paesi erano politicamente agli antipodi e i rapporti erano pessimi, tanto che non vi erano relazioni diplomatiche. Il dittatore Franco, dopo la vittoria della guerra civile, aveva iniziato una feroce repressione nei confronti dei comunisti e la sconfitta contro i sovietici era considerata inaccettabile per le autorità spagnole. L’amichevole vinta per 7-1 dall’URSS nei confronti della Polonia, aveva scalfito tutte le convinzioni spagnole e, non essendo certi di vincere, vietarono ai calciatori di andare a Mosca a giocare. A questo si aggiungeva anche che alle autorità spagnole non entusiasmava l’idea di accogliere a Madrid la delegazione sovietica, data la concreta possibilità di infiltrazioni del KGB. Così, a maggio, la Federcalcio spagnola comunicò ufficialmente che la squadra nazionale non avrebbe giocato contro l’URSS per motivi politici. La Federcalcio sovietica, in una dichiarazione ufficiale, affermò di essere “profondamente indignata per l’intromissione delle autorità franchiste e per l’annullamento della partita”, oltre a ricordare che “il fascista Franco e i suoi collaboratori sono conosciuti per la loro ostilità in contesti del tutto amichevoli” . La nazionale dell’URSS passò così direttamente alle semifinali, dove sconfisse la Cecoslovacchia. In finale, i sovietici incontrarono ancora una volta la Jugoslavia: la rete di Ponedel’nik nei supplementari (dopo che i tempi regolamentari si erano conclusi sul punteggio di 1-1) permise all’URSS di laurearsi Campione di Europa.
 
+<br/><br/>
 
 
 ## Volti nuovi
@@ -143,6 +148,7 @@ Intanto in URSS, le ripercussioni per il prestigio del Paese dovuta alla crisi m
 
 Nel 1966 i Mondiali di calcio vennero disputati in Inghilterra fu il migliore della storia della Nazionale dell’URSS. Dopo essersi qualificata al primo posto a punteggio pieno nel proprio girone (nel quale era presente anche l’Italia), i sovietici batterono per 2-1 l’Ungheria nei quarti di finale e videro arrestata la loro corsa solo nelle semifinali dalla Germania Ovest, in una partita condizionata dall’arbitraggio che l’URSS terminò in nove, a causa di un espulso e di un infortunio (allora non erano permesse le sostituzioni). La finale per il terzo posto contro il Portogallo venne decisa da una rete del lusitano Torres quasi allo scadere. Nonostante questo, il quarto posto resta il miglior piazzamento ottenuto dall’URSS ai mondiali.
 
+<br/><br/>
 
 
 ## Anni Settanta
@@ -159,6 +165,7 @@ Ma, al di là di queste “anomalie”, gli anni 70 sono ricordati per l’inizi
 
 Dopo le vicende del 1964, la politica internazionale tornò di nuovo a influenzare la nazionale di calcio dell’URSS. Per le qualificazioni ai Mondiali del 1974 in Germania Ovest si affrontarono nello spareggio l’Unione Sovietica e il Cile. Quando le due squadre nell’estate del 1973 si classificarono per lo spareggio, le due nazioni erano in ottimi rapporti, dato che il Presidente della repubblica cilena era il socialista Salvador Allende. Ma l’11 settembre, un colpo di Stato guidato da Augusto Pinochet, con cui venne deposto e ucciso Allende, cambiò le carte in tavola: i due Paesi da alleati divennero nemici, con l’URSS che condannò pubblicamente il golpe e ruppe le relazioni diplomatiche con il Cile. L’andata a Mosca si giocò normalmente: la giunta cilena decise di promuovere un’immagine di normalità. Ma per i sovietici era inaccettabile giocare nello stadio di Santiago, che il regime usava come campo di concentramento dove venivano torturati e giustiziati gli oppositori, e proposero alla FIFA di giocare di nuovo a Mosca o in campo neutro. La Federazione internazionale decise di inviare una commissione che aveva il compito di valutare la situazione. Nel rapporto ufficiale la commissione scrisse che “la vita scorreva normalmente”, che “i negozi erano aperti normalmente” e che all’interno dell’Estadio Nacional era stato istituito “un centro di orientamento per stranieri senza documenti” e che quindi si poteva giocare normalmente. L’URSS si rifiutò e per questo perse la partita a tavolino per 3-0. Non contenti, i vertici cileni organizzarono lo stesso una partita simbolica, senza avversari, nello stadio di Santiago, con i giocatori che furono costretti a passarsi la palla tra di loro fino a che il capitano Valdes non mise il pallone in rete a porta vuota.
 
+<br/><br/>
 
 
 ## Anni Ottanta
@@ -187,6 +194,7 @@ Per assistere alla vera emigrazione di giocatori sovietici si dovette attendere 
 
 La normativa relativa al trasferimento all’estero degli atleti sovietici prevedeva che a sovrintendere il tutto fosse il Gos Sport Komitet, il quale opera attraverso il Sovintersport, una società che era la sola delegata a commercializzare le attività sportive dell’URSS. Il meccanismo che regolava il tutto era semplice, ma molto lungo nei tempi di attuazione: la società interessata a un determinato giocatore doveva presentare un’offerta al buio (nessun atleta aveva un prezzo determinato); se la controparte la riteneva accettabile, bene, altrimenti, in caso contrario, la trattativa cadeva automaticamente senza che il richiedente ne conoscesse la ragione. Condizioni essenziali a ogni trasferimento erano l’età (minimo ventotto anni) e la disponibilità, assicurata all’atto del contratto, del giocatore per l’attività internazionale.
 
+<br/><br/>
 
 
 ## Ritorno alle Olimpiadi
@@ -234,6 +242,7 @@ Una delle conseguenze della perestrojka fu che si ebbe molta di più libertà di
 
 Il 1989 fece registrare una vera e propria esplosione legionari sovietici grazie anche al passaggio della giurisdizione dei trasferimenti degli atleti all’estero dal Ministero dello Sport al club di appartenenza. Inoltre, ci fu la venuta del primo calciatore straniero in Unione Sovietica, seppur in una categoria minore: il bulgaro Minčev passò al Kryl’ja Sovetov, nella Serie C sovietica. Per quanto riguarda i risultati, nella stagione 89-90, solo il Dnepr riuscì ad arrivare ai quarti di finale di Coppa dei Campioni, venendo eliminato dal Benfica. Per tutte le altre squadre impegnate nelle coppe europee, a parte la Dinamo Kiev arrivata agli ottavi di Coppa UEFA, nessuna riuscì a superare il secondo turno preliminare.
 
+<br/><br/>
 
 
 ## L’inizio della fine
@@ -260,6 +269,7 @@ Con la dissoluzione dell’URSS di pose il problema dell’inserimento delle var
 
 Il 1991 fu anche l’anno dell’ultimo campionato sovietico disputato, vinto dal CSKA Mosca. Il 13 novembre, allo stadio Larnak di Cipro, la nazionale sovietica giocò l’ultima partita della sua storia, riuscendo a sconfiggere i padroni di casa con il risultato di 3-0, assicurandosi l’accesso alla fase finale degli Europei del 1992, a cui però partecipò una nazionale denominata CSI, in rappresentanza dello spazio politico ex sovietico.
 
+<br/><br/>
 
 
 ## Arrivano i russi
