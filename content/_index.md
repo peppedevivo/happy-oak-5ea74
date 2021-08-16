@@ -34,7 +34,7 @@ layout: page
 
 Sono laureato in **Scienze Politiche e Relazioni Internazionali** all'Università "L'Orientale" di Napoli e precedentemente ho frequentato per 3 anni la facoltà di *Informatica* all'Università "Parthenope" di Napoli che, però, non ho concluso.
 
-Grazie alla facoltà che sto frequentando e ai tre anni a Informatica ho sviluppato una buona conoscenza dei linguaggi di **programmazione web**, come **HTML**, **CSS**, **PHP**, **JAVASCRIPT/JQUERY**, **AJAX**.
+Grazie alla facoltà che sto frequentando e ai tre anni a Informatica ho sviluppato una buona conoscenza dei linguaggi di **programmazione web**, come **PHP**, **JAVASCRIPT/JQUERY**, **AJAX**, **HTML**, **CSS**.
 
 Avendo partecipato alla prima edizione de **L'Orientale iOS Foundation Program** ho avuto modo di fare esperienza con lo sviluppo di app per iOS a 360 gradi: dall'ideazione, al design, fino allo sviluppo vero e proprio con il linguaggio **Swift** e la suite **XCode**.
 
