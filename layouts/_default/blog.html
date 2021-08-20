@@ -11,9 +11,10 @@
     {{ end }}
   </header><!-- .page-header -->
 
-  <div>
-    <p align = "center">  IL RUOLO DEL CALCIO IN URSS E RUSSIA  </p>
-    </div>
+  
+    <h1><p align = "center">
+      IL RUOLO DEL CALCIO IN URSS E RUSSIA  </p></h1>
+
 
   <div class="post-feed grid{{ if eq .Params.col_number "two" }} grid-col-2{{ end }}{{ if eq .Params.col_number "three" }} grid-col-3{{ end }}">
     {{ $display_posts := ((.Site.GetPage "section" "/tesi").Pages).ByDate.Reverse }}
